@@ -1,0 +1,7 @@
+insert into Filling (price, name, image, description) values ( 250,'ОРЕХОВАЯ','https://lv-cake.ru/imgtmp/500_640_cool/data/fillings/3_2.jpg','Настоящая восточная сказка – бисквит на грецких орешках с нежным кремом на основе вареной сгущенки.')
+insert into Filling (price, name, image, description) values ( 300,'КРАСНЫЙ БАРХАТ','https://lv-cake.ru/imgtmp/500_640_cool/data/fillings/2_2.jpg','Броский, яркий, благородный торт, который фантастическим образом влюбляет в себя любого.')
+insert into Filling (price, name, image, description) values ( 150,'МЕДОВЫЙ','https://lv-cake.ru/imgtmp/500_640_cool/data/fillings/5_2.jpg','Лаконичный, изысканный торт, с легким медовым шлейфом, классическими медовыми коржами и нежным сметанным кремом.')
+insert into Filling (price, name, image, description) values ( 250,'ЭСТЕРХАЗИ','https://lv-cake.ru/imgtmp/500_640_cool/data/fillings/4_2.jpg','Венгерский торт «Эстерхази» -это воздушные, упругие и очень сочные ореховые коржи, в меру пористые с сильнейшим миндальным ароматом.')
+insert into Filling (price, name, image, description) values ( 220,'ЙОГУРТОВЫЙ','https://lv-cake.ru/imgtmp/500_640_cool/data/fillings/8_2.jpg','В основе такого торта лежит нежный, ароматный, ванильный бисквит, а легкая йогуртовая прослойка малина-манго отличается деликатным вкусом.')
+insert into Filling (price, name, image, description) values ( 190,'КИЕВСКИЙ','https://lv-cake.ru/imgtmp/500_640_cool/data/fillings/10.jpg','Классика кондитерского искусства и полюбившийся уже несколькими поколениями торт создан по классической рецептуре.')
+
